@@ -1,22 +1,3 @@
-# alden.
-
-website code. i'm a web developer.
-
-💻 **Tech Stack:**
-- Styling usually done with **Tailwind CSS**.
-- Front-end stuff with **React**.
-- Sometimes use **Next.js** for deployment.
-- Might look into other styling frameworks later.
-
-🚀 **Projects:**
-Check out the folders for my projects. If you need something specific, just ask!
-
-🔧 **Quick Links:**
-- [Frontend](/frontend)
-- [Backend](/backend)
-
-Let's build something cool together! 🎨
-
 ## Features
 
 - **Data Pipeline**  
