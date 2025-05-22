@@ -1,0 +1,3 @@
+model,accuracy,precision,recall,f1,auc,training_time,inference_time
+Random Forest,0.7757,0.5767,0.5829,0.5798,0.8246,0.1758,0.053
+XGBoost,0.7814,0.5864,0.5989,0.5926,0.8257,0.2989,0.003
