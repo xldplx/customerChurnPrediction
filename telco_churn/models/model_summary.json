@@ -1,0 +1,8 @@
+{
+  "best_model": "CatBoost",
+  "best_f1_score": 0.6157697121401753,
+  "total_models_trained": 3,
+  "feature_count": 30,
+  "training_samples": 8278,
+  "test_samples": 1409
+}
